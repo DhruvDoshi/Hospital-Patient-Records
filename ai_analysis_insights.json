@@ -1,0 +1,43 @@
+{
+  "demographics": {
+    "total_patients": 974,
+    "avg_age": 73.6,
+    "gender_split": {
+      "M": 494,
+      "F": 480
+    },
+    "race_distribution": {
+      "white": 680,
+      "black": 163,
+      "asian": 91,
+      "other": 16,
+      "hawaiian": 13,
+      "native": 11
+    },
+    "top_state": "Massachusetts"
+  },
+  "financial": {
+    "total_revenue": 101514375.52,
+    "avg_cost_per_encounter": 3639.68,
+    "avg_coverage_rate": 32.08,
+    "high_cost_count": 2789
+  },
+  "clinical": {
+    "total_encounters": 27891,
+    "total_procedures": 47701,
+    "avg_encounter_duration": 7.27,
+    "most_common_encounter": "ambulatory"
+  },
+  "temporal": {
+    "years_covered": 12,
+    "busiest_month": "February",
+    "busiest_day": "Monday",
+    "busiest_hour": 2
+  },
+  "risk_analysis": {
+    "high_utilizers": 569,
+    "high_cost_patients": 98,
+    "multi_condition_patients": 432,
+    "avg_high_utilizer_cost": 169750.33
+  }
+}
