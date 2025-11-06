@@ -1,8 +1,8 @@
 # Task1
 
-## DELIVERABLES (14 Files)
+## DELIVERABLES (18 Files)
 
-###  Scripts (3 Python files)
+###  Scripts (4 Python files)
 1. **`01_ai_analysis_main.py`** (500 lines)
    - Comprehensive AI-assisted analysis
    - Demographics, Financial, Clinical, Temporal, Risk analysis
@@ -17,29 +17,38 @@
    - Interactive consolidated dashboard
    - All insights in one view
 
-### Visualizations (6 image/HTML files)
-4. **`demographics_dashboard.png`** - Patient demographics analysis (4 panels)
-5. **`financial_dashboard.png`** - Financial performance metrics (6 panels)
-6. **`clinical_dashboard.png`** - Clinical operations insights (4 panels)
-7. **`temporal_dashboard.png`** - Time-based patterns (4 panels)
-8. **`risk_analysis_dashboard.png`** - Patient risk stratification (4 panels)
-9. **`interactive_dashboard.html`** - Interactive version with hover/zoom
-10. **`ai_consolidated_dashboard.html`** - Master dashboard combining all views
+4. **`04_additional_visualizations.py`** (400 lines)
+   - Creates 4 additional dashboards for missing analyses
+   - Admissions/Readmissions, Length of Stay, Cost per Visit, Insurance Coverage
+   - 16 additional charts
+
+### Visualizations (10 image/HTML files)
+5. **`demographics_dashboard.png`** - Patient demographics analysis (4 panels)
+6. **`financial_dashboard.png`** - Financial performance metrics (6 panels)
+7. **`clinical_dashboard.png`** - Clinical operations insights (4 panels)
+8. **`temporal_dashboard.png`** - Time-based patterns (4 panels)
+9. **`risk_analysis_dashboard.png`** - Patient risk stratification (4 panels)
+10. **`admissions_readmissions_dashboard.png`** - Admissions/readmissions over time (4 panels)
+11. **`length_of_stay_dashboard.png`** - Hospital stay duration analysis (4 panels)
+12. **`cost_per_visit_dashboard.png`** - Cost per visit breakdown (4 panels)
+13. **`insurance_coverage_dashboard.png`** - Procedure insurance coverage (4 panels)
+14. **`interactive_dashboard.html`** - Interactive version with hover/zoom
+15. **`ai_consolidated_dashboard.html`** - Master dashboard combining all views
 
 ###  Data & Configuration (3 files)
-11. **`ai_analysis_insights.json`** - Structured insights for validation
-12. **`requirements.txt`** - Python dependencies list
-13. **.venv/** - Python virtual environment (auto-generated)
+16. **`ai_analysis_insights.json`** - Structured insights for validation
+17. **`requirements.txt`** - Python dependencies list
+18. **.venv/** - Python virtual environment (auto-generated)
 
 ###  Documentation (2 comprehensive files)
-14. **`TASK1_AI_ANALYSIS_DOCUMENTATION.md`** (1,500+ lines)
+19. **`TASK1_AI_ANALYSIS_DOCUMENTATION.md`** (1,500+ lines)
     - **MOST IMPORTANT FILE** - Complete documentation of AI approach
     - Every AI prompt used and response received
     - Time tracking for comparison
     - Detailed instructions for Task 2 team member
     - Advantages/disadvantages of AI approach
     
-15. **`README_TASK1_RESULTS.md`** (Summary document)
+20. **`README_TASK1_RESULTS.md`** (Summary document)
     - Quick overview of results
     - Key findings
     - How to view outputs
