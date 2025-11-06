@@ -51,9 +51,19 @@
 
 ### Financial (Critical for Business)
 - **Total Revenue:** $101.5 Million
+- **Average Cost per Visit:** $3,639.68 (median: $278.58)
 - **Insurance Coverage:** Only 32% average (huge gap!)
+- **Procedure Insurance Coverage:** 52% of procedures have some coverage (48% no coverage)
 - **Top 10% of encounters generate 66.6% of revenue**
 - **Patient out-of-pocket burden:** $70.4M
+
+### Cost Breakdown by Encounter Type
+- **Inpatient:** $7,761.35 average (highest cost)
+- **Urgent Care:** $6,369.16 average
+- **Emergency:** $4,629.65 average
+- **Wellness:** $4,260.71 average
+- **Ambulatory:** $2,894.11 average
+- **Outpatient:** $2,237.30 average (lowest cost)
 
 ### Demographics
 - **974 patients** (820 active, 154 deceased)
@@ -61,11 +71,32 @@
 - **Perfect gender balance:** 50.7% M / 49.3% F
 - **All from Massachusetts** (concentrated market)
 
+### Admissions & Readmissions
+- **87.7% of patients** have been readmitted (854 out of 974 patients)
+- **Average encounters per patient:** 28.64 (indicates high readmission rate)
+- **Peak admission year:** 2021 with 3,530 encounters
+- **Growth trend:** Steady increase from 1,336 (2011) to 3,530 (2021)
+
+### Length of Stay Analysis
+- **Overall Average Stay:** 7.27 hours (0.30 days)
+- **Median Stay:** 0.25 hours (indicates many quick visits)
+- **Inpatient Average:** 36.84 hours (1.54 days) - longest stays
+- **Emergency Average:** 1.54 hours
+- **Ambulatory Average:** 9.48 hours
+- **Outpatient Average:** 5.88 hours
+- **Urgent Care/Wellness:** 0.25 hours (quickest visits)
+
 ### Clinical Operations
 - **27,891 encounters** analyzed
 - **47,701 procedures** performed  
 - **Top condition:** Chronic heart failure (1,738 cases)
 - **Average encounter duration:** 7.27 hours
+
+### Insurance & Coverage Insights
+- **24,791 procedures** (52%) have insurance coverage
+- **22,910 procedures** (48%) have NO insurance coverage
+- **Average coverage per procedure:** $2,016.10
+- **Coverage rate:** 30.3% (significant out-of-pocket burden)
 
 ### Risk Analysis (Most Actionable)
 - **58% of patients are high utilizers** (≥10 encounters)
